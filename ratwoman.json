@@ -1,0 +1,13 @@
+{
+    "name": "Ratwoman",
+    "powers": ["climbing", "great memory", "great balance", "excellent swimmer", "eats trash"],
+    "primaryNemesis": "Catwoman",
+    "img": "https://twitter.com/furrygirlsdaily/status/1362016239355224068/photo/2",
+    "lifePercentage": 200,
+    "dob": {
+        "day": 17,
+        "month": 12,
+        "year": 1997
+    }
+
+}
